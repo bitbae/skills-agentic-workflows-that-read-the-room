@@ -32,3 +32,8 @@ Open a pull request for Mona to review.
 Use a pull request title that mentions Mona or GitHub Info. 
 Do not write directly to `main`;
 rely on `safe-outputs` with `create-pull-request`.
+
+- Tell agent to:
+  - web fetch https://awesome-copilot.github.com/workflows/
+
+- Add to sources awesome-copilot workflows https://awesome-copilot.github.com/workflows/
