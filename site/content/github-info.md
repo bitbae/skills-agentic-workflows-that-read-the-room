@@ -1,5 +1,7 @@
 # GitHub Info
 
+## Latest GitHub Updates
+
 ## Mona's editorial angle
 
 Mona's website focuses on practical GitHub guidance backed by official references from:
